@@ -8,7 +8,7 @@ export const personalData = {
   phone: '+917083754508',
   address: 'Nashik,Maharastra,India (Open to relocation)',
   github: 'https://github.com/rohit7083',
-  resume: "https://drive.google.com/file/d/1dyhGgCsax-qUctVEk5qPtBVFFnNMhR4z/view?usp=sharing",
+  resume: "https://drive.google.com/file/d/1Mfi8CdBjaEmeWKLP4h2lmFiPkJ4KDpvv/view?usp=sharing",
   linkedIn: 'https://www.linkedin.com/in/rohit-sonawane-007183230/',
   facebook: '',
   twitter: '',
