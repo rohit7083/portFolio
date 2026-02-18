@@ -1,13 +1,14 @@
 export const projectsData = [
     {
         id: 1,
-        name: 'Book Store - Frontend',
-        tools: ['React Js', 'Tailwind CSS', 'MongoDB', 'Express.Js', 'Node.Js',],
+        name: 'AI Chatbot',
+        tools: ['React Js', 'Tailwind CSS', 'Google Gemini Api',],
         role: 'Frontend Developer',
         code: '',
         demo: 'https://youtube.com/playlist?list=PLQePrdBWxlsXQREK6iZuaEPGVOKFoVBWh&si=GTli4NfW1-7ZAo7y',
         role: 'Full Stack Developer',
-        description: 'Engineered a dual ridesharing app using React Native, GraphQL, and AWS services, achieving 99.5% uptime. Key features include vehicle-type booking, real-time driver updates, seamless payments, a chatbot boosting engagement by 15%, trip histories, and saved locations for 25% quicker bookings.'
+        description: `Built a web application mimicking a conversational AI chatbot experience using React and Vite. Enabled dynamic user prompts,
+asynchronous API interactions, and real-time`
     },
     {
         id: 2,
@@ -17,7 +18,7 @@ export const projectsData = [
         code: '',
         demo: '',
         role: 'Full Stack Developer',
-        description: 'Designed, developed, and deployed an e-commerce website with secure payment gateway integration, utilizing Java, MVC architecture, HTML5, CSS3, JavaScript, and third-party APIs. Containerized the application using Docker and deployed on a Kubernetes cluster for improved scalability and reliability.'
+        description: 'Developed a responsive weather application using React and Vite that provides Live Weather Updates, Dynamic Data Display, and Location Search. Integrated a real-time weather API, implemented efficient state management with React hooks, and built a clean mobile-first UI. Optimized performance with Vite fast build system and added robust error handling for a seamless user experienc',
 
     },
     {
@@ -39,42 +40,15 @@ export const projectsData = [
         code: '',
         demo: '',
         role: 'Full Stack Developer',
-        description: 'Developed a personal finance assistant using Python and React.js that helps users manage their expenses and savings through predictive analytics and personalized insights, resulting in a 25% increase in savings over six months. Created a machine learning model leveraging historical spending data to categorize transactions and forecast monthly budgets with 90% accuracy.'
+        description: `Developed a visually accurate clone of Netflix
+
+s user interface using React and modern CSS. Designed reusable components for
+navigation bar, banner, and categorized movie rows with hover effects and smooth scrolling interactions. Focused on front-end
+architecture, responsive layouts, and pixel-perfect design to replicate the authentic Netflix experience. Optimized component
+structure and styling for clean, maintainable code.`
 
     },
-    {
-        id: 5,
-        name: 'Text Converter',
-        tools: ['React JS, Bootstrap ,JavaScript'],
-        role: 'Full Stack Developer',
-        code: '',
-        demo: '',
-        role: 'Full Stack Developer',
-        description: 'Developed a personal finance assistant using Python and React.js that helps users manage their expenses and savings through predictive analytics and personalized insights, resulting in a 25% increase in savings over six months. Created a machine learning model leveraging historical spending data to categorize transactions and forecast monthly budgets with 90% accuracy.'
-
-    },
-    {
-        id: 6,
-        name: 'Books Collection UI',
-        tools: ['HTML/CSS'],
-        role: 'Full Stack Developer',
-        code: '',
-        demo: '',
-        role: 'Full Stack Developer',
-        description: 'Developed a personal finance assistant using Python and React.js that helps users manage their expenses and savings through predictive analytics and personalized insights, resulting in a 25% increase in savings over six months. Created a machine learning model leveraging historical spending data to categorize transactions and forecast monthly budgets with 90% accuracy.'
-
-    },
-    {
-        id: 7,
-        name: 'Online Course UI ',
-        tools: ['HTML/CSS','Bootstrap'],
-        role: 'Full Stack Developer',
-        code: '',
-        demo: '',
-        role: 'Full Stack Developer',
-        description: 'Developed a personal finance assistant using Python and React.js that helps users manage their expenses and savings through predictive analytics and personalized insights, resulting in a 25% increase in savings over six months. Created a machine learning model leveraging historical spending data to categorize transactions and forecast monthly budgets with 90% accuracy.'
-
-    },
+   
 ];
 
 // Do not remove any property.
